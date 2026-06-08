@@ -1,0 +1,12 @@
+frames/
+deepfake_data/
+frontend copy/
+node_modules/
+uploads/
+
+*.h5
+*.pt
+*.pth
+*.pkl
+
+__pycache__/
